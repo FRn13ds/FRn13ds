@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @FRn13ds
+- 👋 Hi, I’m @FRn13ds 
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Pentesting
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me : From Email / outlook or Instagram
+- Visit 
+- 😄 Real name: Yessyn_selmy
 - ⚡ Fun fact: ...
 
 <!---
